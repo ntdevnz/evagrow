@@ -111,9 +111,9 @@ Please note that the design is modular and stackable up to 3 units high, and tha
 ##Contact
 -----
 
-ntdev.burner@gmail.com
-@_evagrow instagram
-@trls250s telegram
+- ntdev.burner@gmail.com
+- @_evagrow instagram
+- @trls250s telegram
 
 ##Examples
 -----
