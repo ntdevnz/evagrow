@@ -50,31 +50,18 @@ It's important to note that Evagrow is based on the design ideas from Volumetric
 ##Features
 ------
 
--Modular design: The Evagrow units are designed to be modular, allowing for easy assembly and customization to fit your specific needs.
-
--Stackable: The units are stackable, allowing for scalability depending on the user's needs.
-
--Easy to assemble: The flat-pack design makes it easy to assemble the units with minimal tools and experience.
-
--CNC laser cut and routed: The units are precision-cut using CNC technology, ensuring a high-quality finish and accurate assembly.
-
--Hydroponic: The units are designed for hydroponic gardening, a highly efficient and sustainable method of indoor gardening.
-
--Two different sizes: Two different sizes of units are available, one for small-scale gardening and one for large-scale gardening.
-
--Drawings and DXF files provided: The project includes all the necessary drawings and DXF files for building your own unit.
-
--BOMS and supplier links: A bill of materials (BOMs) and links to known suppliers for some processes in certain countries and regions.
-
--LED artificial lighting: The units are equipped with LED artificial lighting, which allows for plants to be grown all year long. The lighting design is from years of research and is NZ electrical compliant for the sale and use in the New Zealand domestic market.
-
--3d Design files currently for both models in Fusion 360 and Solidworks.
-
--Freecad files: The project is moving to FreeCAD, which is a free and open-source CAD software, so that everyone will have access to the design files.
-
--Creative Commons licensing: The project is released under the Creative Commons license structure, which allows for the free use, distribution, and modification of the project's files.
-
--Volumetric.co.nz engineering company: Evagrow is based on the design ideas from Volumetric.co.nz, an engineering company with 15 years of experience in the manufacturing space.
+- Modular design: The Evagrow units are designed to be modular, allowing for easy assembly and customization to fit your specific needs.
+- Stackable: The units are stackable, allowing for scalability depending on the user's needs.
+- Easy to assemble: The flat-pack design makes it easy to assemble the units with minimal tools and experience.
+- CNC laser cut and routed: The units are precision-cut using CNC technology, ensuring a high-quality finish and accurate assembly.
+- Hydroponic: The units are designed for hydroponic gardening, a highly efficient and sustainable method of indoor gardening.
+- Two different sizes: Two different sizes of units are available, one for small-scale gardening and one for large-scale gardening.
+- Drawings and DXF files provided: The project includes all the necessary drawings and DXF files for building your own unit.
+- BOMS and supplier links: A bill of materials (BOMs) and links to known suppliers for some processes in certain countries and regions.
+- LED artificial lighting: The units are equipped with LED artificial lighting, which allows for plants to be grown all year long. The lighting design is from years of research and is NZ electrical compliant for the sale and use in the New Zealand domestic market.
+- 3d Design files currently for both models in Fusion 360 and Solidworks.
+- Freecad files: The project is moving to FreeCAD, which is a free and open-source CAD software, so that everyone will have access to the design files.
+- Creative Commons licensing: The project is released under the Creative Commons license structure, which allows for the free use, distribution, and modification of the project's files.
 
 
 
