@@ -82,11 +82,38 @@ It's important to note that Evagrow is based on the design ideas from Volumetric
 ##Getting Started
 -----
 
+Welcome to the Evagrow project, an open-source hydroponic unit that is easy to assemble and customize to suit your needs. We are excited to share our design with you and encourage you to contribute to the project.
+
+To get started with building your own Evagrow unit, there are a few options available.
+
+Kitparts: Kitparts will soon be available for purchase from evagrow.co.nz, which includes all the necessary parts and hardware to assemble your unit.
+
+DIY Option: If you prefer to do everything yourself, you can download the design files from the GitHub repository. The files include CAD drawings and DXF files, which can be used with a variety of software such as FreeCAD, Solidworks, and Fusion 360.
+
+Review the Design: Before building your unit, it's important to review the design and get an understanding of all the components. This will help you plan your build and ensure that you have all the necessary parts and tools.
+
+Build Instructions: Detailed build instructions are provided with the design files, making it easy for anyone to assemble the unit.
+
+BOM: A bill of materials (BOM) is also provided, which includes a list of all the components required for the build, including the LED strips and electrical components.
+
+Light Components: The light components consist of the clear cover cut from 1mm acrylic and the panel made from laser-cut and folded aluminum panels. Standard furniture fixings are used to hold the shelves together.
+
+Shelving: The shelving is router cut from one side of a sheet of furniture plywood, which makes for an easy and efficient build.
+
+Please note that the design is modular and stackable up to 3 units high, and that the project is moving to freecad 
+
+
+
+
 ##Documentation
 -----
 
 ##Contact
 -----
+
+ntdev.burner@gmail.com
+@_evagrow instagram
+@trls250s telegram
 
 ##Examples
 -----
