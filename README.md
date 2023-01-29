@@ -2,8 +2,19 @@
 ##Flat Pack hydroponic System
 -----
 
+The Evagrow project is motivated by the belief that everyone should have the right to grow their own food and plants, regardless of their living conditions or access to land. With the effects of global warming becoming increasingly apparent, it is more important than ever to find sustainable and efficient ways to grow food indoors. Hydroponics is a highly effective method of indoor gardening, but it has traditionally been expensive and difficult for the average person to set up and maintain.
 
-## Project Overview
+The Evagrow project aims to change that by providing an easy-to-use, flat-pack, and modular hydroponic unit that can be built using CNC laser cutting and routing technology. The units are designed to be stackable, allowing for scalability depending on the user's needs.
+
+With the increasing trend of apartment living, many people are finding themselves without access to outdoor gardening space. Evagrow aims to make indoor gardening a viable alternative, giving people the ability to grow fresh, healthy food in their own homes. Additionally, many people lack the resources or knowledge to set up and maintain a hydroponic system, the project is designed to be accessible to anyone, regardless of their skill level or location.
+
+The Evagrow project is dedicated to the idea that everyone should have the right to grow their own food and plants, and we hope to make that a reality for as many people as possible.
+
+
+
+
+
+##Project Overview
 -----
 Evagrow is an innovative open-source hardware project that aims to provide a cost-effective and sustainable solution for indoor gardening. The project is focused on designing a flat-pack, modular, and easy-to-assemble hydroponic unit that can be built using CNC laser cutting and routing technology. The project offers two different sized units, each designed for different applications, such as home gardening, small-scale commercial cultivation, or educational purposes. The units are stackable up to three units high, allowing for flexibility and scalability depending on the user's needs.
 
@@ -12,6 +23,9 @@ The project provides all the necessary drawing files and DXFs for building your 
 The project is supported by affiliate marketing, Patreon, and crypto donations, which will be used to help run and maintain the project. These funds will be used to cover the costs of hosting, development, and maintenance of the project, as well as to support future development and expansion of the project.
 
 Overall, Evagrow is an ambitious project that aims to make indoor gardening more accessible, sustainable, and affordable for everyone. By providing an easy-to-use and modular hydroponic unit, the project hopes to inspire more people to grow their own food and to promote the benefits of sustainable indoor gardening.
+
+
+
 
 
 ##Contribue
@@ -29,6 +43,9 @@ The project is released under the Creative Commons license structure, which allo
 Link to Creative Commons License
 
 It's important to note that Evagrow is based on the design ideas from Volumetric.co.nz, an actual company that is dedicated to sustainable indoor gardening. We acknowledge and appreciate the valuable contributions that Volumetric has made to the project, and we encourage others to check out their work as well. 
+
+
+
 
 ##Features
 ------
